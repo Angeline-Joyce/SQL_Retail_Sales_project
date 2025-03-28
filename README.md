@@ -98,7 +98,6 @@ or cogs is null
 or total_sale is null;
 ```
 
---SOLUTIONS 
 -- **Q.1 Write a SQL query to retrieve all columns for sales made on '2022-11-05'**
 
 ```sql
@@ -212,9 +211,6 @@ from cte1
 group by shifts;
 ```
 
---END OF THE PROJECT--
-
-
 
 
 **📈 Key Insights & Findings**
@@ -235,3 +231,5 @@ This project demonstrates how SQL can be used for powerful data cleaning, transf
 
 **Author**
 Angeline Joyce J
+
+--END OF THE PROJECT--
